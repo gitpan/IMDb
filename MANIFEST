@@ -1,0 +1,10 @@
+Makefile.PL
+IMDb.pm
+IMDb/Title.pm
+IMDb/People.pm
+IMDb/Generique.pm
+examples/imdbget.PL
+examples/imdbsearch.PL
+README
+Changes
+MANIFEST
